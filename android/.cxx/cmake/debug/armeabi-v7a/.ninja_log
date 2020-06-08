@@ -1,0 +1,5 @@
+# ninja log v5
+0	107	1591616442	CMakeFiles/native_add.dir/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/ios/Classes/native_add.cpp.o	c8636fe94464f15f
+107	137	1591616442	/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/example/build/flutter_plugin_abc/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	12c342de0ef2a6c5
+0	162	1591616520	CMakeFiles/flutter_plugin_abc.dir/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/ios/Classes/native_add.cpp.o	722263f5aa9e2f82
+163	214	1591616520	/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/example/build/flutter_plugin_abc/intermediates/cmake/debug/obj/armeabi-v7a/libflutter_plugin_abc.so	fdd4c2f53ee74b16

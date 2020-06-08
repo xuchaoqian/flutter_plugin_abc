@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/android/.cxx/cmake/debug/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/native_add.dir/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/ios/Classes/native_add.cpp.o
+[2/2] Linking CXX shared library /Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/example/build/flutter_plugin_abc/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so

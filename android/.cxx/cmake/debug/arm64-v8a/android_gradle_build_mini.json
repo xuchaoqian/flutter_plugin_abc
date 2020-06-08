@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/xuchaoqian/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/xuchaoqian/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/xuchaoqian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/android/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/xuchaoqian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/android/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "flutter_plugin_abc-Debug-arm64-v8a": {
+      "artifactName": "flutter_plugin_abc",
+      "buildCommand": "/Users/xuchaoqian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/android/.cxx/cmake/debug/arm64-v8a\" flutter_plugin_abc",
+      "abi": "arm64-v8a",
+      "output": "/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/example/build/flutter_plugin_abc/intermediates/cmake/debug/obj/arm64-v8a/libflutter_plugin_abc.so",
+      "runtimeFiles": []
+    }
+  }
+}

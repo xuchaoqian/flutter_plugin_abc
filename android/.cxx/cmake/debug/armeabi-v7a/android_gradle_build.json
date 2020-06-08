@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/android/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/xuchaoqian/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xuchaoqian/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dflutter_plugin_abc_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/xuchaoqian/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/xuchaoqian/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/xuchaoqian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/android/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/xuchaoqian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/android/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "flutter_plugin_abc-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/xuchaoqian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/android/.cxx/cmake/debug/armeabi-v7a\" flutter_plugin_abc",
+      "buildType": "debug",
+      "toolchain": "40131489",
+      "abi": "armeabi-v7a",
+      "artifactName": "flutter_plugin_abc",
+      "files": [
+        {
+          "src": "/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/ios/Classes/native_add.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/xuchaoqian/codebase/bitbros/flutter_plugin_abc/example/build/flutter_plugin_abc/intermediates/cmake/debug/obj/armeabi-v7a/libflutter_plugin_abc.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "40131489": {
+      "cppCompilerExecutable": "/Users/xuchaoqian/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
